@@ -36,10 +36,6 @@ This repository contains **Java programs** designed to enhance your understandin
 - **File Handling**: Read and write data to files.  
 - **Custom Data Structures**: Implement linked lists or stacks in Java.
 
----
 
-## 🛠 How to Run  
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/java-programs.git
+
